@@ -1,8 +1,8 @@
 <div style="background: linear-gradient(45deg, rgb(30, 0, 20), rgb(10, 0, 30)); padding: 3em 2em; color: white; border: 1px solid white;">
 
-# Olá, eu sou o Guilherme💜
+# Olá, eu sou o Davi💜
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeAndersonBR&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davipbr15&show_icons=true&theme=radical)
 
 <div style="display: inline-block;">
 <div style="margin: 1em 0px; display: flex; justify-content: center;">
@@ -19,13 +19,4 @@
 </div>
 
 <p>}</p>
-
-<div style="background-color: rgb(10, 5, 15); padding: 10px; box-shadow: 3px 3px 10px black; border-radius: 5px;">
-<h2>Características:</h2>
-<ul>
-<li><h3>Estudante/Studant</h4></li>
-<li><h4>Estudante de Programação há 4 anos<br>Programming student for 4 years</h3></li>
-</ul>
-</div>
-</div>
 
